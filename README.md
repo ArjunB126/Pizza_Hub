@@ -5,5 +5,4 @@ Welcome to the gastronomic wonderland of Pizza Hub , where every pizza tells a t
 
 Dive into our menu, a treasure trove of handcrafted wonders that redefine the pizza landscape. From the classics that comfort the soul to avant-garde creations that challenge your taste perceptions, each pizza is a masterpiece. Our ingredients? Impeccable. Our crusts? Perfectly crisp. Our flavors? Unforgettable.
 
-Welcome to Pizza Hub, where pizza dreams come true, and every click is a step closer to a culinary adventure like no other. Join us, pizza aficionados, in this symphony of taste, where each slice is not just a meal but a masterpiece waiting to be devoured. Indulge, savor, and get ready for a pizza experience that transcends the ordinary.
-Have a look here : 
+Join me in this digital pizzeria, where customization meets creativity, and indulge in a feast for the senses. At Pizza Hub , the journey begins with a click, but the experience lasts with every unforgettable bite. Are you ready to taste the extraordinary? Click your way into a world of pizza wonders now : 
