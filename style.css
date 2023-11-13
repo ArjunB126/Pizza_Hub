@@ -323,3 +323,22 @@ header {
       margin-top: 1rem;
     }
   }
+
+
+
+
+
+
+
+
+
+
+  @media (max-width: 450px) {
+    :root {
+      --big-font: 2rem;
+      --h2-font: 1.4rem;
+    }
+    .home-text {
+      padding-top: 4rem;
+    }
+  }
